@@ -15,3 +15,13 @@ document.querySelectorAll(".inputs").forEach(inp =>{
 document.querySelector(".menu section").addEventListener("click", ()=> {
     document.querySelector(".main").classList.toggle("act");
 })
+document.getElementById("downLoad").addEventListener("click", ()=>{
+    document.querySelector("dialog").classList.toggle("act");
+})
+document.getElementById("cancel").addEventListener("click", ()=>{
+    document.querySelector("dialog").classList.toggle("act");
+})
+document.getElementById("download2").addEventListener("click", ()=>{
+    document.querySelector("dialog").classList.toggle("act");
+})
+
