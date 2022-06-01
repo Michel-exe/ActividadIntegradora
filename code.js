@@ -36,10 +36,10 @@ document.querySelectorAll(".modulos section div").forEach(modulo =>{
 
         let men={
             finanzas: "En este módulo usted: \nPodrá saber su estado de cuenta además de que podrá abonar o retirar dinero 💲🤑.",
-            registro: "En este módulo usted: \nAquí se registraran las personas que quieran entrar al condominio con el número de habitación a la que entraran. 💵",
-            cuotas:   "En este módulo usted: \nAquí pondrá escoger si desea un mantenimiento instalación o reparación dependiendo de la empresa que quiera contratar o el costo de su habitación de eso dependerá el precio. 🚧",
-            ingreso:  "En este módulo usted: \nAquí las personas necesitan ingresar un usuario y contraseña para que puedan acceder. 🚶‍♀️",
-            evento:   "En este módulo usted: \nAquí las personas pueden reservar la fecha de algún evento. 🎉",
+            registro: "En este módulo se registraran: \nLas personas que quieran entrar al condominio con su nombre y el número de habitación a la que entraran. 💵",
+            cuotas:   "En este módulo usted: \nPondrá escoger si desea un mantenimiento instalación o reparación dependiendo de la empresa que quiera contratar o el costo de su habitación de eso dependerá el precio. 🚧",
+            ingreso:  "En este módulo: \nCualquier persona puede ingresar.\nEn caso de ser un inquilino necesita ingresar su nombre y su contraseña.\nEn caso de ser alguna visita se necesita registrar, además que el inquilino le permita el acceso. 🚶‍♀️",
+            evento:   "En este módulo usted: \nPuede reservar la fecha de algún evento. 🎉",
             agua:     "En este módulo usted: \nPodrá cotizar los pagos de agua y luz que ha generado además de pagarlo con la app. 🌊⚡",
         }
         alert(
